@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifeManagement</string>
+    <string name="prompt_first">First Name</string>
+    <string name="prompt_middle">Middle Name</string>
+    <string name="prompt_last">Last Name</string>
+    <string name="action_submit">Submit</string>
+    <string name="profile_prompt">Upload an Image</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="success_login">is logged in!</string>
+</resources>
